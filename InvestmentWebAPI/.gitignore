@@ -1,0 +1,11 @@
+InvestmentPerformanceWebAPI/bin/
+InvestmentPerformanceWebAPI/obj/
+InvestmentPerformanceWebAPI/Migrations/obj/
+InvestmentPerformanceWebAPI/Migrations/bin/
+InvestmentPerformanceWebAPI.Tests/bin/
+InvestmentPerformanceWebAPI.Tests/obj/
+
+InvestmentPerformanceWebAPI/*.db*
+*.db
+*.db-shm
+*.db-wal
